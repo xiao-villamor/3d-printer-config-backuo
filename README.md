@@ -2,6 +2,10 @@
 
 Klipper configuration for Ender 3 V3 SE with Mainsail
 
+## 🚀 Quick Start
+
+**Just updated the configuration?** → See [QUICK_START.md](QUICK_START.md) for next steps!
+
 ## Recent Updates
 
 **First Layer & Print Quality Fixes (2026-01-04)** - Fixed bed adhesion issues, missing layers, and mid-air printing problems. See [FIRST_LAYER_FIXES.md](FIRST_LAYER_FIXES.md) for details.
