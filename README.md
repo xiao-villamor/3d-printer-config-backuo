@@ -4,6 +4,8 @@ Klipper configuration for Ender 3 V3 SE with Mainsail
 
 ## Recent Updates
 
+**First Layer & Print Quality Fixes (2026-01-04)** - Fixed bed adhesion issues, missing layers, and mid-air printing problems. See [FIRST_LAYER_FIXES.md](FIRST_LAYER_FIXES.md) for details.
+
 **Dynamic Meshing Fix** - Fixed adaptive bed meshing configuration to resolve irregular first layer issues. See [DYNAMIC_MESHING_FIX.md](DYNAMIC_MESHING_FIX.md) for details.
 
 ## Configuration Files
