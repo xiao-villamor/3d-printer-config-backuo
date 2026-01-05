@@ -6,9 +6,13 @@ Klipper configuration for Ender 3 V3 SE with Mainsail
 
 **Just updated the configuration?** → See [**START_HERE.md**](START_HERE.md) for immediate next steps!
 
+**¿Problemas con la primera capa?** → Consulta [**GUIA_PROBLEMAS_PRIMERA_CAPA.md**](GUIA_PROBLEMAS_PRIMERA_CAPA.md) para diagnóstico completo
+
 For detailed setup: [QUICK_START.md](QUICK_START.md)
 
 ## Recent Updates
+
+**First Layer Optimization (2026-01-05)** - Optimized BLTouch probing speed, improved purge line parameters, added G-code arcs support, and comprehensive Spanish troubleshooting guide. See [GUIA_PROBLEMAS_PRIMERA_CAPA.md](GUIA_PROBLEMAS_PRIMERA_CAPA.md) for complete diagnostics.
 
 **Advanced First Layer & Support Fixes (2026-01-05)** - Comprehensive solution for bed adhesion, zone-dependent issues, and support structure problems. See [ADVANCED_FIRST_LAYER_FIXES.md](ADVANCED_FIRST_LAYER_FIXES.md) for complete details.
 
