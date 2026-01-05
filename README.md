@@ -4,7 +4,9 @@ Klipper configuration for Ender 3 V3 SE with Mainsail
 
 ## 🚀 Quick Start
 
-**Just updated the configuration?** → See [QUICK_START.md](QUICK_START.md) for next steps!
+**Just updated the configuration?** → See [**START_HERE.md**](START_HERE.md) for immediate next steps!
+
+For detailed setup: [QUICK_START.md](QUICK_START.md)
 
 ## Recent Updates
 
