@@ -8,6 +8,8 @@ Klipper configuration for Ender 3 V3 SE with Mainsail
 
 **¿Problemas con la primera capa?** → Consulta [**GUIA_PROBLEMAS_PRIMERA_CAPA.md**](GUIA_PROBLEMAS_PRIMERA_CAPA.md) para diagnóstico completo
 
+**Z-offset inestable o inconsistente?** → Lee [**ENDER3_V3_SE_Z_OFFSET_REPAIR.md**](ENDER3_V3_SE_Z_OFFSET_REPAIR.md) para una guía completa de reparación
+
 For detailed setup: [QUICK_START.md](QUICK_START.md)
 
 ## Recent Updates
