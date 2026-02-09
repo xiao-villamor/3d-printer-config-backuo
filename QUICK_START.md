@@ -59,6 +59,12 @@ START_PRINT EXTRUDER_TEMP={material_print_temperature_layer_0} BED_TEMP={materia
 2. Aumenta el valor en pasos de +0.02mm
 3. Cuando esté bien, ejecuta: `AUTO_Z_OFFSET` para guardar
 
+**Si el filamento se levanta en curvas y la boquilla arrastra plástico (muy cerca de la cama):**
+1. Imprime el test: `FIRST_LAYER_TEST BED_TEMP=60 EXTRUDER_TEMP=200`
+2. En Mainsail, sube el Z-offset en pasos de +0.02mm hasta que las líneas queden suaves y sin arrastre
+3. Si solo ocurre en una zona, repite `BED_LEVEL_SCREWS_TUNE` y vuelve a calibrar la malla
+4. Cuando esté bien, ejecuta: `AUTO_Z_OFFSET` para guardar
+
 ### 📚 Más Información
 - **Solución completa y avanzada**: [ADVANCED_FIRST_LAYER_FIXES.md](ADVANCED_FIRST_LAYER_FIXES.md) - **¡NUEVO!**
 - **Detalles técnicos**: [FIRST_LAYER_FIXES.md](FIRST_LAYER_FIXES.md)
@@ -124,6 +130,12 @@ START_PRINT EXTRUDER_TEMP={material_print_temperature_layer_0} BED_TEMP={materia
 1. During print, go to "Settings" → "Z-Offset"
 2. Increase value in +0.02mm steps
 3. When good, run: `AUTO_Z_OFFSET` to save
+
+**If filament lifts on curves and the nozzle drags plastic (too close to bed):**
+1. Print the test: `FIRST_LAYER_TEST BED_TEMP=60 EXTRUDER_TEMP=200`
+2. In Mainsail, raise the Z-offset in +0.02mm steps until lines look smooth without dragging
+3. If it only happens in one area, repeat `BED_LEVEL_SCREWS_TUNE` and recalibrate the mesh
+4. When good, run: `AUTO_Z_OFFSET` to save
 
 ### 📚 More Information
 - **Complete advanced solution**: [ADVANCED_FIRST_LAYER_FIXES.md](ADVANCED_FIRST_LAYER_FIXES.md) - **NEW!**
